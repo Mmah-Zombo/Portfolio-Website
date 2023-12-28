@@ -108,6 +108,11 @@ body {
   text-decoration: none;
   color: black;
 }
+
+.h-full {
+  height: 100%;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
